@@ -18,7 +18,7 @@ Viren Walia
 
 
 
-## Github Capilot
+## Github Copilot
 GitHub Copilot, an AI-based coding assistant, played a significant role in the development of the Finance Tracker application. By harnessing the capabilities of machine learning, GitHub Copilot provided intelligent suggestions for code implementation, resulting in a more streamlined coding process. Here are some of the contributions made by GitHub Copilot to the app's development:
 
 Code Generation: GitHub Copilot greatly aided in generating boilerplate code for various sections of the application, such as server routes, database queries, and user interface components. By automatically generating code snippets based on the specific context and requirements, it saved valuable time and reduced the need for manual coding from scratch.
@@ -29,7 +29,7 @@ Smart Auto-completion: GitHub Copilot's auto-completion features were highly use
 
 Overall, GitHub Copilot's assistance greatly enhanced the efficiency and effectiveness of the development process for the Finance Tracker application.
 
-## HOW WE USED GITHUB CAPILOT
+## HOW WE USED GITHUB CoPILOT
 In the development of my Finance Tracker object, I made extensive use of GitHub Copilot as my coding companion. GitHub Copilot, powered by artificial intelligence, played a crucial role in enhancing the efficiency and effectiveness of the coding process. It provided intelligent code suggestions and helped streamline the implementation of various functionalities within the Finance Tracker. By leveraging its machine learning capabilities, Copilot generated boilerplate code for different sections of the object, including data handling, calculations, and user interface components. This significantly saved me time and effort that would have otherwise been spent on manual coding from scratch. Moreover, Copilot proved invaluable in catching syntax errors and offering suggestions for correction, thereby improving the overall code quality and reducing the debugging time. Its smart auto-completion feature further expedited the development process by suggesting appropriate variable names, function arguments, and method calls. Thanks to GitHub Copilot's assistance, I was able to develop the Finance Tracker object more efficiently and maintain consistency throughout the codebase.
 
 
